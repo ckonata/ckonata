@@ -29,6 +29,7 @@
 
 <h2> Links of relevance: </h2>
 <p> Linkedin: <a href="https://www.linkedin.com/in/claudiaziemba" target="blank">https://www.linkedin.com/in/claudiaziemba/</a></p>
+<p> Goodreads: <a href="https://www.goodreads.com/clau_zmb" target="blank">https://www.linkedin.com/in/claudiaziemba/</a></p>
 
 <h2> Stats: </h2>
 <div style="width: 100%;">
