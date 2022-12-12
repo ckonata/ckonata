@@ -34,11 +34,11 @@
 <h2> Stats: </h2>
 <div style="width: 100%;">
    <a href="https://github.com/anuraghazra/github-readme-stats" style="display: block; width: 50%;">
-       <img align="top" src="https://github-readme-stats.vercel.app/api?username=ckonata&hide=stars&count_private=true&show_icons=true&theme=radical" />
+       <img align="top" src="https://github-readme-stats.vercel.app/api?username=ckonata&hide=stars&count_private=true&show_icons=true&theme=city_lights" />
    </a> 
    <br>
    <br>
    <a href="https://github.com/anuraghazra/convoychat" style="display: block; width: 50%; margin-top:10px">
-       <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ckonata&layout=compact&theme=radical" />
+       <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ckonata&layout=compact&theme=city_lights" />
    </a>
 </div>
