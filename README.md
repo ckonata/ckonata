@@ -1,10 +1,5 @@
 <h1>Hi there 👋 </h1>
 
-<blockquote>
-  <p>The simplest solution is likely the best one.</p>
-  <footer><cite title="Occam's razor">Occam's razor</cite></footer>
-</blockquote>
-
 <h2> Links of relevance: </h2>
 <a href="mailto:claudia.ziemba@gmail.com" target="blank"><img src="https://img.shields.io/badge/CONTACT%20ME-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail badge"/></a>
 <br>
