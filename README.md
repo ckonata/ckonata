@@ -1,4 +1,4 @@
-<h1>Hi there 👋 </h1>
+<h1>Hi there  👋 </h1>
 
 <h2> Connect with me: </h2>
 <a href="mailto:claudia.ziemba@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail badge"/></a> 
